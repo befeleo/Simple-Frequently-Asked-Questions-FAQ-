@@ -1,0 +1,27 @@
+body {
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  height: 100%;
+  width: 100%;
+  line-height: 2rem;
+}
+h1{
+  font-weight: 600;
+  font-size: 36px;
+  text-align: center;
+}
+h2{
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-top: 5rem;
+}
+p{
+    font-weight:400;
+    font-size: 1rem;
+}
+.first--paragraph{
+  text-align: center;
+}
+a{
+    color: #4E80EE;
+    text-decoration: none;
+}
